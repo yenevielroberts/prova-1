@@ -1,5 +1,6 @@
 
 fun main() {
-   println("Hello")
+   var nom:String= readln().toString()
+   println("Hello, $nom")
 
 }
